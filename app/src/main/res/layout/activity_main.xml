@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:textSize="30sp"
         android:onClick="happy"
-        android:text="Button" />
+        android:text="樂透" />
 
     <TextView
         android:id="@+id/txv"
